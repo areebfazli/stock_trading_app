@@ -2,7 +2,7 @@
 An app to buy and sell stocks using virtual currency, and track your investment portfolio
 ![image](https://user-images.githubusercontent.com/22425008/193263720-cf29809f-2079-4099-953e-643b74e366a6.png)
 
-An app to buy and sell stocks using virtual curency, and track your investment portfolio. The app uses the IEX API to fetch stock price data.
+An app to buy and sell stocks using virtual currency, and track your investment portfolio. The app uses the IEX API to fetch stock price data.
 The user has access to the following features:
 
 # View holdings
